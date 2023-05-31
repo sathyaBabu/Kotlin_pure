@@ -1,3 +1,5 @@
+THis line is changed now
+
 [?25l[0m[H[J[s[999C[999B[6n[uTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
 Mem:   1548640k total,  1240660k used,   307980k free,     9452k buffers        
 Swap:        0k total,        0k used,        0k free,   449036k cached         
@@ -22,7 +24,8 @@ Swap:        0k total,        0k used,        0k free,   449036k cached
  8706 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/2:1]
  8698 root          0 -20    0    0    0 S  0.0   0.0   0:00.83 [kworker/u9:3]
  8620 root         20   0    0    0    0 S  0.0   0.0   0:01.59 [kworker/u8:0]
- 8544 u0_a70       20   0 1.3G  56M  42M S  0.0   3.7   0:00.21 com.android.pri+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
+ 8544 u0_a70       20   0 1.3G  56M  42M S  0.0   3.7   0:00.21 com.android.pri+
+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
 Mem:   1548640k total,  1240784k used,   307856k free,     9456k buffers        
 Swap:        0k total,        0k used,        0k free,   449036k cached         
 400%cpu   0%user   0%nice   0%sys 400%idle   0%iow   0%irq   0%sirq   0%host    
@@ -46,7 +49,8 @@ Swap:        0k total,        0k used,        0k free,   449036k cached
  8829 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/3:2]
  8787 root         20   0    0    0    0 S  0.0   0.0   0:00.15 [kworker/1:2]
  8735 u0_a116      20   0 1.3G  90M  68M S  0.0   5.9   0:09.90 edureka.sathya.+
- 8706 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/2:1][H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
+ 8706 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/2:1]
+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
 Mem:   1548640k total,  1241304k used,   307336k free,     9460k buffers        
 Swap:        0k total,        0k used,        0k free,   449968k cached         
 400%cpu   1%user   0%nice   2%sys 396%idle   0%iow   0%irq   0%sirq   0%host    
@@ -70,7 +74,8 @@ Swap:        0k total,        0k used,        0k free,   449968k cached
  9192 root          0 -20    0    0    0 S  0.0   0.0   0:00.28 [kworker/u9:2]
  9104 root         20   0    0    0    0 S  0.0   0.0   0:00.08 [kworker/0:2]
  9080 u0_a3        20   0 1.3G  59M  44M S  0.0   3.9   0:00.23 com.android.pro+
- 9024 root         20   0    0    0    0 S  0.0   0.0   0:00.02 [kworker/2:0][H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
+ 9024 root         20   0    0    0    0 S  0.0   0.0   0:00.02 [kworker/2:0]
+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
 Mem:   1548640k total,  1241552k used,   307088k free,     9460k buffers        
 Swap:        0k total,        0k used,        0k free,   449968k cached         
 400%cpu   1%user   0%nice   1%sys 398%idle   0%iow   0%irq   0%sirq   0%host    
@@ -94,7 +99,8 @@ Swap:        0k total,        0k used,        0k free,   449968k cached
  8991 u0_a18       20   0 1.3G  66M  51M S  0.0   4.3   0:00.22 com.google.andr+
  8829 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/3:2]
  8787 root         20   0    0    0    0 S  0.0   0.0   0:00.15 [kworker/1:2]
- 8735 u0_a116      20   0 1.3G  90M  68M S  0.0   5.9   0:09.90 edureka.sathya.+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
+ 8735 u0_a116      20   0 1.3G  90M  68M S  0.0   5.9   0:09.90 edureka.sathya.+
+[H[JTasks: 164 total,   1 running, 162 sleeping,   0 stopped,   1 zombie            
 Mem:   1548640k total,  1241536k used,   307104k free,     9464k buffers        
 Swap:        0k total,        0k used,        0k free,   449968k cached         
 400%cpu   0%user   0%nice   1%sys 399%idle   0%iow   0%irq   0%sirq   0%host    
@@ -118,4 +124,4 @@ Swap:        0k total,        0k used,        0k free,   449968k cached
  8787 root         20   0    0    0    0 S  0.0   0.0   0:00.15 [kworker/1:2]
  8735 u0_a116      20   0 1.3G  90M  68M S  0.0   5.9   0:09.90 edureka.sathya.+
  8706 root         20   0    0    0    0 S  0.0   0.0   0:00.01 [kworker/2:1]
- 8698 root          0 -20    0    0    0 S  0.0   0.0   0:00.83 [kworker/u9:3]
+ 8698 root          0 -20    0    0    0 S  0.0   0.0   0:00.83 [kworker/u9:3]
